@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DannyBozbay/Quantum-Tunneling">
-    <img src="logo.jpg" alt="Logo" width="300" height="300">
+    <img src="stars.png" alt="Logo">
   </a>
 
 <h3 align="center">Hipparcos Survey</h3>
