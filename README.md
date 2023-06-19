@@ -55,11 +55,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project, we use numerial method in Python to solve the 1D Time-Dependent Schrodinger Equation for the Quantum Tunnelling problem: *a particle approaching a potential barrier*. 
+Hipparcos, or the High Precision Parallax Collecting Satellite, and also a play on the name of the ancient Greek astronomer Hipparcus, was a mission by the European Space Agency with the goal of mapping the motion, brightness, and parallax of more than a hundred thousand stars. The satellite launched in 1989, and for 4 years analyzed the 118’000-something predefined objects. The majority of the stars to be observed were selected based on their apparent magnitude — practically all stars potentially visible to the naked eye were included in this data.
 
-Our quantum particle is modelled using a Gaussian wavepacket, and our potential barrier is given by a step function. 
-
-We use plot and animate the time-evolution of the quantum system using Matplotlib, allowing us to visualise the tunnelling effect of the particle which is impossible in the classical realm!
+In this project, we use the data to analyse the brightness and distances of stars visable in the night sky, and eventually 
 
 
 
