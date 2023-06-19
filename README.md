@@ -35,7 +35,7 @@
 <h3 align="center">Hipparcos Survey</h3>
 
   <p align="center">
-    Animating the 1D Time-Dependent Schrodinger Equation
+    Analysing the data collected in the Hipparcos Survey
     <br />
     <a href="https://github.com/DannyBozbay/Quantum-Tunneling"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,16 +57,7 @@
 
 Hipparcos, or the High Precision Parallax Collecting Satellite, and also a play on the name of the ancient Greek astronomer Hipparcus, was a mission by the European Space Agency with the goal of mapping the motion, brightness, and parallax of more than a hundred thousand stars. The satellite launched in 1989, and for 4 years analyzed the 118’000-something predefined objects. The majority of the stars to be observed were selected based on their apparent magnitude — practically all stars potentially visible to the naked eye were included in this data.
 
-In this project, we use the data to analyse the brightness and distances of stars visable in the night sky, and eventually 
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ANIMATION -->
-## Animation
-
-[![Watch the video](anim.png)](https://www.youtube.com/watch?v=vWJqICll91w)
+In this project, we use the data collected in the Hipparcos survey to analyse the brightness and distances of the stars it observed.
 
 
 
